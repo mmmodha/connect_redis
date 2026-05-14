@@ -1,6 +1,6 @@
 # connect_redis
 
-`connect_redis` is a small terminal helper for connecting to Redis instances from a local config file. It reads a list of Redis endpoints, ignores blank lines and comments, prints a Redis-style logo/banner, and helps you connect quickly without retyping host, port, or instance details every time.
+`connect_redis` is a small terminal helper for connecting to Redis instances from a local config file. It reads a list of Redis endpoints and helps you connect quickly without retyping host, port, or instance details every time.
 
 ---
 
